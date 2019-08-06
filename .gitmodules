@@ -1,3 +1,6 @@
 [submodule "wiki"]
 	path = test
 	url = https://github.com/staceb/All-the-tests.git
+[submodule "All-the-tests"]
+	path = All-the-tests
+	url = https://github.com/staceb/All-the-tests
